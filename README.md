@@ -1,10 +1,9 @@
-# Hi there, I'm Tenzin Kunga 👋
-
+<h1 align="center">Hi there, I'm Tenzin Kunga </h1>
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=AI+%26+ML+Engineer;Python+Developer;Machine+Learning+Enthusiast;Problem+Solver" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=AI+%26+ML+Engineer;Software+Developer;Problem+Solver" alt="Typing SVG" />
 </div>
 
-## 🚀 About Me
+## About Me
 
 I am a motivated and detail-oriented engineering student with a solid foundation in **Machine Learning** and **Python**, complemented by hands-on experience in version control systems and AI tools. I demonstrate strong problem-solving abilities and effective communication skills, honed through collaborative projects and academic coursework.
 
@@ -100,23 +99,6 @@ Built a predictive model to forecast stock prices using historical market data. 
 - **Business for Good: Fundamentals of Corporate Responsibility** | London Business School
 - **Build a Machine Learning Web App with Streamlit and Python** | Coursera
 
-## 🌐 Languages
-
-| Language | Proficiency |
-|----------|-------------|
-| English  | Fluent      |
-| Tibetan  | Native      |
-| Hindi    | Conversational |
-
-## 🎨 Interests & Hobbies
-
-When I'm not coding, you can find me:
-
-- ♟️ **Chess** - Strategic thinking and problem-solving
-- ⚽ **Football** - Team collaboration and fitness
-- 🏀 **Basketball** - Quick decision making and coordination
-- 🎨 **Drawing** - Creative expression and attention to detail
-- 🏋️‍♂️ **Gym** - Dicipline and Health
 
 ## 📊 GitHub Statistics
 
