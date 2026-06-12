@@ -1,139 +1,67 @@
-<h1 align="center">Hi there, I'm Tenzin Kunga </h1>
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=AI+%26+ML+Engineer;Software+Developer;Problem+Solver" alt="Typing SVG" />
-</div>
+# Hi, I'm Tenzin Kunga 👋
 
-## About Me
+### AI/ML Developer | Python, Java, MySQL | Machine Learning & Full-Stack Development
 
-I am a motivated and detail-oriented engineering student with a solid foundation in **Machine Learning** and **Python**, complemented by hands-on experience in version control systems and AI tools. I demonstrate strong problem-solving abilities and effective communication skills, honed through collaborative projects and academic coursework.
+---
 
-- 🎓 Currently pursuing **B.Tech in CSE - AI & ML** at Jain (Deemed-to-be) University, Bangalore (2023 - 2027)
-- 🌱 Learning and exploring the latest in **Artificial Intelligence** and **Machine Learning**
-- 💡 Passionate about applying technical knowledge to real-world challenges
-- 📍 Based in Mysore, Karnataka, India
+## 🛠️ Tech Stack
 
+**Languages**
 
-## 💻 Coding Profiles
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-<div align="center">
+**Frontend**
 
-### LeetCode Profile
-![Leetcode Stats](https://leetcard.jacoblin.cool/tenkunga911?ext=heatmap)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
+**Backend**
 
-### 🏆 HackerRank Achievements
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Python-5★-306998?style=for-the-badge&logo=python&logoColor=FFD43B">
-  <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Python-5★-306998?style=for-the-badge&logo=python&logoColor=FFD43B">
-  <img alt="Python Badge" src="https://img.shields.io/badge/Python-5★-306998?style=for-the-badge&logo=python&logoColor=FFD43B">
-</picture>
+**Databases**
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/SQL-2★-336791?style=for-the-badge&logo=mysql&logoColor=white">
-  <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/SQL-2★-336791?style=for-the-badge&logo=mysql&logoColor=white">
-  <img alt="SQL Badge" src="https://img.shields.io/badge/SQL-2★-336791?style=for-the-badge&logo=mysql&logoColor=white">
-</picture>
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/30%20Days%20of%20Code-2★-FF6B35?style=for-the-badge&logo=hackerrank&logoColor=white">
-  <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/30%20Days%20of%20Code-2★-FF6B35?style=for-the-badge&logo=hackerrank&logoColor=white">
-  <img alt="30 Days of Code Badge" src="https://img.shields.io/badge/30%20Days%20of%20Code-2★-FF6B35?style=for-the-badge&logo=hackerrank&logoColor=white">
-</picture>
+**Machine Learning**
 
-<br>
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
 
-<a href="https://hackerrank.com/profile/tenkunga911">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-Visit%20My%20Profile-00EA64?style=for-the-badge&logo=HackerRank&logoColor=white">
-    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/-Visit%20My%20Profile-00EA64?style=for-the-badge&logo=HackerRank&logoColor=white">
-    <img alt="HackerRank Profile" src="https://img.shields.io/badge/-Visit%20My%20Profile-00EA64?style=for-the-badge&logo=HackerRank&logoColor=white">
-  </picture>
-</a>
+**Tools**
 
-</div>
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-## 💼 Professional Experience
+---
 
-### Python Development Intern | Intern Career
-**January 2024 - March 2024 | Remote**
-
-- 🕷️ Developed automated web scraping solutions for e-commerce platforms, including Nike
-- 📊 Implemented robust data extraction processes to gather and analyze product information
-- ✅ Ensured code efficiency and reliability through comprehensive testing and debugging
-- 📝 Created detailed documentation for project workflows and procedures
-
-### AI&ML Intern | Elevate Labs
-**May 2025 - June 2025 | Remote**
-
-- Completed 8 structured tasks during your AIML internship (Task-1 → Task-8).
-- Worked mostly in Jupyter Notebooks (data preprocessing, ML model building, experimentation).
-- Built a Stock Price Prediction project using ML.
-
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=tampered-sin&repo=Elevate-Labs-Tasks)](https://github.com/tampered-sin/Elevate-Labs-Tasks)
-
-## 🎯 Featured Projects
-
-### 🧪 Modern Periodic Table
-**Tech Stack:** Python, Tkinter, MySQL
-
-A comprehensive periodic table application featuring an intuitive GUI built with Tkinter. The application leverages MySQL database integration to store and retrieve detailed information about chemical elements, providing users with an interactive learning experience.
-
-### ✅ Interactive To-Do List Web App
-**Tech Stack:** React, TypeScript, Tailwind CSS, Supabase
-
-Developed a feature-rich task management web application with secure user authentication (login/signup) and seamless cloud data storage using Supabase. The application features a clean, responsive interface optimized for productivity and user experience.
-
-📈 Stock Price Prediction
-Tech Stack: Python, Pandas, Scikit-learn, Matplotlib
-
-Built a predictive model to forecast stock prices using historical market data. Implemented data preprocessing, feature engineering, and machine learning regression algorithms, with visualizations to analyze trends and model performance.
-
-## 📚 Education & Certifications
-
-### 🎓 Academic Background
-- **B.Tech in CSE - AI & ML** | Jain (Deemed-to-be) University, Bangalore (2023-2027)
-
-### 📜 Professional Certifications
-- **Introduction to Contemporary Operating Systems and Hardware** | Illinois Tech
-- **Business for Good: Fundamentals of Corporate Responsibility** | London Business School
-- **Build a Machine Learning Web App with Streamlit and Python** | Coursera
-
-
-## 📊 GitHub Statistics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tampered-sin&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tampered-sin&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
-
-## 🤝 Let's Connect
+## 📊 GitHub Stats
 
 <p align="center">
-  <a href="mailto:tenkunga911@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://linkedin.com/in/kungatenzin">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://github.com/tampered-sin">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  <a href="https://leetcode.com/u/tenkunga911">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode"/>
-  </a>
-  <a href="https://www.hackerrank.com/profile/tenkunga911">
-    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="HackerRank"/>
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=tenzin-kunga&show_icons=true&bg_color=00000000&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF&border_color=30363D&hide_border=false" height="180" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tenzin-kunga&layout=compact&bg_color=00000000&title_color=58A6FF&text_color=C9D1D9&border_color=30363D&hide_border=false" height="180" alt="Top Languages" />
 </p>
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=tampered-sin&color=blue&style=flat-square" alt="Profile Views"/>
-</div>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=tenzin-kunga&background=00000000&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=C9D1D9&dates=C9D1D9&stroke=30363D&border=30363D" alt="GitHub Streak" />
+</p>
 
-<div align="center">
-  <i>"Turning data into insights, one algorithm at a time"</i>
-</div>
+---
+
+## 🤝 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tenzin-kunga)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tenzin-kunga)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
