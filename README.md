@@ -55,7 +55,7 @@
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=tenzin-kunga&background=00000000&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=C9D1D9&dates=C9D1D9&stroke=30363D&border=30363D" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=tenzin-kunga&background=00000000&ring=58A6FF&fire=58A6FF&currStreakNum=C9D1D9&currStreakLabel=58A6FF&sideNums=C9D1D9&sideLabels=C9D1D9&dates=C9D1D9&stroke=30363D&border=30363D" alt="GitHub Streak" />
 </p>
 
 ---
